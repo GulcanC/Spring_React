@@ -6,9 +6,7 @@
 
 ⭐️ Prerequisits => Java Development Kit (JDK), Apache Maven, Java Extension Pack
 
-⭐️ Spring initializr => Project: maven, Language: Java, Spring Boot: 3.5.0, Dependencies: Rest repositories, Spring Data JPA, 
-
-H2 Database, Lombok
+⭐️ Spring initializr => Project: maven, Language: Java, Spring Boot: 3.5.0, Dependencies: Rest repositories, Spring Data JPA, H2 Database, Lombok
 
 ⭐️ Generate the project
 
